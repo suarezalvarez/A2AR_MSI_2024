@@ -1,0 +1,329 @@
+# VMD Timeline data file
+# CREATOR= martin
+# MOL_NAME= step7_1.gro
+# DATA_TITLE= inter-sel. contacts
+# FILE_VERSION= 1.4
+# NUM_FRAMES= 18 
+# NUM_ITEMS= 16
+# FREE_SELECTION= 1
+#
+freeSelLabel TYR 9==resname UNK
+freeSelString (same residue as index 99) or (resname UNK)
+0 2
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 6
+8 1
+9 6
+10 8
+11 6
+12 0
+13 2
+14 1
+15 0
+16 2
+17 2
+freeSelLabel ALA 63==resname UNK
+freeSelString (same residue as index 930) or (resname UNK)
+0 3
+1 0
+2 0
+3 0
+4 0
+5 0
+6 4
+7 3
+8 3
+9 2
+10 4
+11 2
+12 5
+13 6
+14 4
+15 8
+16 8
+17 3
+freeSelLabel ILE 66==resname UNK
+freeSelString (same residue as index 973) or (resname UNK)
+0 1
+1 0
+2 1
+3 2
+4 1
+5 4
+6 3
+7 1
+8 3
+9 3
+10 0
+11 0
+12 4
+13 0
+14 2
+15 3
+16 3
+17 1
+freeSelLabel SER 67==resname UNK
+freeSelString (same residue as index 992) or (resname UNK)
+0 4
+1 0
+2 2
+3 2
+4 0
+5 1
+6 2
+7 2
+8 7
+9 3
+10 3
+11 4
+12 4
+13 3
+14 3
+15 3
+16 7
+17 4
+freeSelLabel VAL 84==resname UNK
+freeSelString (same residue as index 1217) or (resname UNK)
+0 2
+1 2
+2 1
+3 3
+4 2
+5 3
+6 4
+7 5
+8 6
+9 3
+10 5
+11 5
+12 2
+13 3
+14 4
+15 4
+16 2
+17 2
+freeSelLabel THR 88==resname UNK
+freeSelString (same residue as index 1287) or (resname UNK)
+0 3
+1 5
+2 4
+3 1
+4 2
+5 2
+6 3
+7 2
+8 4
+9 1
+10 2
+11 1
+12 3
+13 2
+14 1
+15 3
+16 2
+17 3
+freeSelLabel PHE 168==resname UNK
+freeSelString (same residue as index 2503) or (resname UNK)
+0 4
+1 5
+2 1
+3 8
+4 2
+5 1
+6 4
+7 6
+8 4
+9 4
+10 5
+11 3
+12 3
+13 2
+14 0
+15 4
+16 2
+17 4
+freeSelLabel GLU 169==resname UNK
+freeSelString (same residue as index 2523) or (resname UNK)
+0 8
+1 8
+2 4
+3 9
+4 6
+5 4
+6 5
+7 7
+8 8
+9 5
+10 7
+11 7
+12 7
+13 5
+14 7
+15 7
+16 7
+17 8
+freeSelLabel MET 177==resname UNK
+freeSelString (same residue as index 2648) or (resname UNK)
+0 1
+1 7
+2 2
+3 4
+4 0
+5 1
+6 2
+7 2
+8 3
+9 0
+10 0
+11 0
+12 0
+13 3
+14 0
+15 0
+16 0
+17 1
+freeSelLabel TRP 246==resname UNK
+freeSelString (same residue as index 3783) or (resname UNK)
+0 3
+1 2
+2 4
+3 2
+4 2
+5 6
+6 4
+7 3
+8 2
+9 7
+10 1
+11 2
+12 3
+13 2
+14 2
+15 1
+16 5
+17 3
+freeSelLabel LEU 249==resname UNK
+freeSelString (same residue as index 3840) or (resname UNK)
+0 6
+1 4
+2 10
+3 4
+4 8
+5 7
+6 8
+7 1
+8 5
+9 8
+10 6
+11 7
+12 2
+13 4
+14 2
+15 9
+16 2
+17 6
+freeSelLabel HSD 250==resname UNK
+freeSelString (same residue as index 3859) or (resname UNK)
+0 7
+1 3
+2 5
+3 3
+4 4
+5 5
+6 2
+7 3
+8 1
+9 4
+10 1
+11 2
+12 7
+13 3
+14 3
+15 3
+16 1
+17 7
+freeSelLabel ILE 274==resname UNK
+freeSelString (same residue as index 4241) or (resname UNK)
+0 1
+1 2
+2 1
+3 4
+4 2
+5 4
+6 7
+7 4
+8 3
+9 4
+10 8
+11 4
+12 2
+13 6
+14 8
+15 2
+16 4
+17 1
+freeSelLabel SER 277==resname UNK
+freeSelString (same residue as index 4295) or (resname UNK)
+0 6
+1 6
+2 3
+3 7
+4 3
+5 6
+6 3
+7 5
+8 6
+9 5
+10 5
+11 6
+12 6
+13 5
+14 6
+15 1
+16 6
+17 6
+freeSelLabel HSD 278==resname UNK
+freeSelString (same residue as index 4306) or (resname UNK)
+0 1
+1 3
+2 8
+3 5
+4 8
+5 5
+6 1
+7 7
+8 6
+9 4
+10 4
+11 4
+12 5
+13 4
+14 6
+15 7
+16 7
+17 1
+freeSelLabel UNK 315==resname UNK
+freeSelString (same residue as index 4985) or (resname UNK)
+0 116
+1 120
+2 112
+3 117
+4 126
+5 116
+6 110
+7 118
+8 115
+9 112
+10 110
+11 113
+12 112
+13 116
+14 115
+15 114
+16 113
+17 116
