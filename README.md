@@ -16,6 +16,6 @@ In this paper we describe the dynamics of the adenosine A2A receptor bound to an
 
 ## Motivation 
 
-This is a project from the course on Molecular Simulations (MSc in bioinformatics for Health Sciences) carried out by Javier Herranz del Cerro, Estel Martín Alarcón and Martín Suárez Álvarez. The analysis was carried out using GROMACS (classical MD simulations), NAMD (SMD simulations), VMD (structure visualization and analysis of RMSD and water volmaps) and R (plots and graphics). 
+This is a project from the course on Molecular Simulations (MSc in bioinformatics for Health Sciences, UPF) carried out by Javier Herranz del Cerro, Estel Martín Alarcón and Martín Suárez Álvarez. The analysis was carried out using GROMACS (classical MD simulations), NAMD (SMD simulations), VMD (structure visualization and analysis of RMSD and water volmaps) and R (plots and graphics). 
 
 The final aim was to write a paper using these simulations. You can find the paper in this repository. 
